@@ -20,3 +20,5 @@ git commit -m "message" + nom file
 git push -u origin master
 
 AVERINA REO COMMANDE telo reo refa misy modification atao ka alefa any ambony
+
+blablabla
